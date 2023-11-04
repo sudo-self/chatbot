@@ -2,7 +2,7 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmckaywrigley%2Fchatbot-ui)
 
-Chatbot UI is an open source chat UI for AI models.
+open source chat UI for AI.
 
 ![Chatbot UI](./public/screenshots/screenshot-0402023.jpg)
 
