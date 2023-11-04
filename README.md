@@ -6,14 +6,14 @@ open source chat UI for AI.
 
 ![Chatbot UI](./public/screenshots/screenshot-0402023.jpg)
 
-## OpenAI API Key**
+## OpenAI API Key
 
 Create a .env.local file in the root of the repo with your OpenAI API Key:
 
 ```bash
 OPENAI_API_KEY=YOUR_KEY
 ```
-## Use It**
+## Use
 
 You should be able to start chatting.
 
