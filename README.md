@@ -1,4 +1,4 @@
-# <a href="https://GPT.JesseJesse.com">gpt.JesseJesse.com</a>
+# <a href="https://GPT.JesseJesse.com">basic bot interfece</a>
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmckaywrigley%2Fchatbot-ui)
 
