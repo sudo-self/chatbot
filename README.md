@@ -1,23 +1,12 @@
-# Chatbot UI
+# <a href="https://GPT.JesseJesse.com">gpt.JesseJesse.com</a>
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmckaywrigley%2Fchatbot-ui)
 
 Chatbot UI is an open source chat UI for AI models.
 
 ![Chatbot UI](./public/screenshots/screenshot-0402023.jpg)
 
-**Next up:**
-
-- [ ] Sharing
-- [ ] "Bots"
-
-## Deploy
-
-**Vercel**
-
-Host your own live version of Chatbot UI with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmckaywrigley%2Fchatbot-ui)
-
-## Provide OpenAI API Key**
+## OpenAI API Key**
 
 Create a .env.local file in the root of the repo with your OpenAI API Key:
 
